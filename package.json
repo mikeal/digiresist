@@ -1,0 +1,24 @@
+{
+  "name": "digiresist",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node dev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bel": "^4.5.1",
+    "brfs": "^1.4.3",
+    "browserify": "^14.0.0",
+    "budo": "^9.4.7",
+    "cheerio": "^0.22.0",
+    "funky": "^2.3.0",
+    "node-geocoder": "^3.16.0",
+    "request": "^2.79.0",
+    "response": "^0.18.0"
+  }
+}

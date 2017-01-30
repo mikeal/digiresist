@@ -1,0 +1,2625 @@
+[
+  {
+    "city": "Albuquerque, New Mexico",
+    "dateString": "January 29, 4:45–7 p.m.",
+    "location": "Sheraton Albuquerque Airport Hotel",
+    "link": "https://www.facebook.com/events/258293144608123/",
+    "title": "#MuslimBan Protest, Albuquerque, New Mexico, January 29, 4:45–7 p.m.",
+    "geocode": {
+      "formattedAddress": "2910 Yale Blvd SE, Albuquerque, NM 87106, USA",
+      "latitude": 35.051161,
+      "longitude": -106.620694,
+      "extra": {
+        "googlePlaceId": "ChIJO1Sk9IULIocROm7jBp0RNYQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Sunport",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Bernalillo County",
+        "level2short": "Bernalillo County",
+        "level1long": "New Mexico",
+        "level1short": "NM"
+      },
+      "streetNumber": "2910",
+      "streetName": "Yale Boulevard Southeast",
+      "city": "Albuquerque",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "87106",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Atlanta, Georgia",
+    "dateString": "January 29, 4–6 p.m.",
+    "location": "Hartsfield-Jackson Atlanta Airport ",
+    "link": "https://www.facebook.com/events/370576413312630/?active_tab=about",
+    "title": "#MuslimBan Protest, Atlanta, Georgia, January 29, 4–6 p.m.",
+    "geocode": {
+      "formattedAddress": "Hartsfield-Jackson Atlanta International Airport, 6000 N Terminal Pkwy, Atlanta, GA 30320, USA",
+      "latitude": 33.6407282,
+      "longitude": -84.4277001,
+      "extra": {
+        "googlePlaceId": "ChIJAVkD4S_99IgRSLCSGO-jF0E",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Clayton County",
+        "level2short": "Clayton County",
+        "level1long": "Georgia",
+        "level1short": "GA"
+      },
+      "streetNumber": "6000",
+      "streetName": "North Terminal Parkway",
+      "city": "Atlanta",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "30320",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Austin, Texas",
+    "dateString": "January 29, 2–5 p.m.",
+    "location": "Austin-Bergstrom International Airport",
+    "link": "https://www.facebook.com/events/760757904100266/",
+    "title": "#MuslimBan Protest, Austin, Texas, January 29, 2–5 p.m.",
+    "geocode": {
+      "formattedAddress": "Austin-Bergstrom International Airport, 3600 Presidential Blvd, Austin, TX 78719, USA",
+      "latitude": 30.1974292,
+      "longitude": -97.6663058,
+      "extra": {
+        "googlePlaceId": "ChIJRf9KizuxRIYRaCfcyaj8pxw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Travis County",
+        "level2short": "Travis County",
+        "level1long": "Texas",
+        "level1short": "TX"
+      },
+      "streetNumber": "3600",
+      "streetName": "Presidential Boulevard",
+      "city": "Austin",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "78719",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Baltimore, Maryland",
+    "dateString": "January 29, 5–8 p.m.",
+    "location": "BWI Thurgood Marshall International Airport",
+    "link": "https://www.facebook.com/events/464883900566685/",
+    "title": "#MuslimBan Protest, Baltimore, Maryland, January 29, 5–8 p.m.",
+    "geocode": {
+      "formattedAddress": "Baltimore/Washington International Thurgood Marshall Airport, Baltimore, MD 21240, USA",
+      "latitude": 39.1774042,
+      "longitude": -76.6683922,
+      "extra": {
+        "googlePlaceId": "ChIJC-DCu_zit4kRQBeX-gwVAAA",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "5",
+        "level3short": "5",
+        "level2long": "Anne Arundel County",
+        "level2short": "Anne Arundel County",
+        "level1long": "Maryland",
+        "level1short": "MD"
+      },
+      "city": "Baltimore",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "21240",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Bloomington, Indiana",
+    "dateString": "January 29, 4–5 p.m.",
+    "location": "Court House Lawn",
+    "link": "https://www.facebook.com/events/141181763054369/",
+    "title": "#MuslimBan Protest, Bloomington, Indiana, January 29, 4–5 p.m.",
+    "geocode": {
+      "formattedAddress": "E Oaklawn Ct, Bloomington, IN 47401, USA",
+      "latitude": 39.1295964,
+      "longitude": -86.50157790000002,
+      "extra": {
+        "googlePlaceId": "ChIJXxWTXnZmbIgR55m0432vUcc",
+        "confidence": 0.7,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Perry Township",
+        "level3short": "Perry Township",
+        "level2long": "Monroe County",
+        "level2short": "Monroe County",
+        "level1long": "Indiana",
+        "level1short": "IN"
+      },
+      "streetName": "East Oaklawn Court",
+      "city": "Bloomington",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "47401",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Boise, Idaho",
+    "dateString": "January 29, 1–4 p.m.",
+    "location": "Boise Airport",
+    "link": "https://www.facebook.com/events/150742102094933/",
+    "title": "#MuslimBan Protest, Boise, Idaho, January 29, 1–4 p.m.",
+    "geocode": {
+      "formattedAddress": "Boise Airport, 3201 W Airport Way #1000, Boise, ID 83705, USA",
+      "latitude": 43.5658231,
+      "longitude": -116.222316,
+      "extra": {
+        "googlePlaceId": "ChIJRxv4IfdXrlQRK74w5aXfzo4",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": "1000",
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Ada County",
+        "level2short": "Ada County",
+        "level1long": "Idaho",
+        "level1short": "ID"
+      },
+      "streetNumber": "3201",
+      "streetName": "West Airport Way",
+      "city": "Boise",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "83705",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Boston, Massachusetts",
+    "dateString": "January 29, 1–3 p.m.",
+    "location": "Copley Square",
+    "link": "https://www.facebook.com/events/1808560036070492/",
+    "title": "#MuslimBan Protest, Boston, Massachusetts, January 29, 1–3 p.m.",
+    "geocode": {
+      "formattedAddress": "Copley Square, Boston, MA 02116, USA",
+      "latitude": 42.3499136,
+      "longitude": -71.07626119999999,
+      "extra": {
+        "googlePlaceId": "ChIJU4T8hgx644kR4kBsW0Y8bH0",
+        "confidence": 0.7,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Back Bay",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Suffolk County",
+        "level2short": "Suffolk County",
+        "level1long": "Massachusetts",
+        "level1short": "MA"
+      },
+      "streetName": "Copley Square",
+      "city": "Boston",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "02116",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Canton, New York",
+    "dateString": "January 29, 12 p.m. — 1:30 p.m.",
+    "location": "Park St. and Main St.",
+    "link": "https://www.facebook.com/events/1877987165813906/",
+    "title": "#MuslimBan Protest, Canton, New York, January 29, 12 p.m. — 1:30 p.m.",
+    "geocode": {
+      "formattedAddress": "Canton, NY 13617, USA",
+      "latitude": 44.595638,
+      "longitude": -75.1692107,
+      "extra": {
+        "googlePlaceId": "EhVDYW50b24sIE5ZIDEzNjE3LCBVU0E",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Canton",
+        "level3short": "Canton",
+        "level2long": "St. Lawrence County",
+        "level2short": "St Lawrence County",
+        "level1long": "New York",
+        "level1short": "NY"
+      },
+      "country": "United States",
+      "countryCode": "US",
+      "city": "Canton",
+      "zipcode": "13617",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Champaign, Illinois",
+    "dateString": "January 29, 2 p.m.",
+    "location": "University of Illinois Willard Airport",
+    "link": "https://www.facebook.com/events/1705552536403201/",
+    "title": "#MuslimBan Protest, Champaign, Illinois, January 29, 2 p.m.",
+    "geocode": {
+      "formattedAddress": "University of Illinois Urbana-Champaign Willard Airport, 11 Airport Rd, Savoy, IL 61874, USA",
+      "latitude": 40.0363034,
+      "longitude": -88.2640152,
+      "extra": {
+        "googlePlaceId": "ChIJkcYMDsXTDIgRzeu45oT9_bM",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Tolono Township",
+        "level3short": "Tolono Township",
+        "level2long": "Champaign County",
+        "level2short": "Champaign County",
+        "level1long": "Illinois",
+        "level1short": "IL"
+      },
+      "streetNumber": "11",
+      "streetName": "Airport Road",
+      "city": "Savoy",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "61874",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Charlotte, North Carolina",
+    "dateString": "January 29, 1–9 p.m.",
+    "location": "Charlotte Douglas International Airport",
+    "link": "https://www.facebook.com/events/462923154097697/",
+    "title": "#MuslimBan Protest, Charlotte, North Carolina, January 29, 1–9 p.m.",
+    "geocode": {
+      "formattedAddress": "Charlotte Douglas International Airport, 5501 R C Josh Birmingham Pkwy, Charlotte, NC 28208, USA",
+      "latitude": 35.2144026,
+      "longitude": -80.9473146,
+      "extra": {
+        "googlePlaceId": "ChIJidRKt32YVogRN6fEPG9Kuho",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "1, Charlotte",
+        "level3short": "1, Charlotte",
+        "level2long": "Mecklenburg County",
+        "level2short": "Mecklenburg County",
+        "level1long": "North Carolina",
+        "level1short": "NC"
+      },
+      "streetNumber": "5501",
+      "streetName": "R C Josh Birmingham Pkwy",
+      "city": "Charlotte",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "28208",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Chicago, Illinois",
+    "dateString": "January 28, happening now",
+    "location": "O’Hare International Airport",
+    "title": "#MuslimBan Protest, Chicago, Illinois, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "O'Hare International Airport, 10000 W O'Hare Ave, Chicago, IL 60666, USA",
+      "latitude": 41.9741625,
+      "longitude": -87.9073214,
+      "extra": {
+        "googlePlaceId": "ChIJ82J3aie0D4gRS61ZAgdHF1E",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "O'Hare",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Cook County",
+        "level2short": "Cook County",
+        "level1long": "Illinois",
+        "level1short": "IL"
+      },
+      "streetNumber": "10000",
+      "streetName": "W O'Hare Ave",
+      "city": "Chicago",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "60666",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Columbus, Ohio",
+    "dateString": "January 29 1 p.m.",
+    "location": "John Glenn Columbus International Airport",
+    "link": "https://www.facebook.com/events/1644467245855015/",
+    "title": "#MuslimBan Protest, Columbus, Ohio, January 29 1 p.m.",
+    "geocode": {
+      "formattedAddress": "John Glenn Columbus International Airport, 4600 International Gateway, Columbus, OH 43219, USA",
+      "latitude": 39.9999399,
+      "longitude": -82.8871767,
+      "extra": {
+        "googlePlaceId": "ChIJ486JNBFiOIgRwWQQwcgCfaA",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "East Columbus",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Columbus",
+        "level3short": "Columbus",
+        "level2long": "Franklin County",
+        "level2short": "Franklin County",
+        "level1long": "Ohio",
+        "level1short": "OH"
+      },
+      "streetNumber": "4600",
+      "streetName": "International Gateway",
+      "city": "Columbus",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "43219",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Denver, Colorado",
+    "dateString": "January 28, 5–7 p.m.",
+    "location": "Denver International Airport",
+    "link": "https://www.facebook.com/events/1416101161753999/",
+    "title": "#MuslimBan Protest, Denver, Colorado, January 28, 5–7 p.m.",
+    "geocode": {
+      "formattedAddress": "Denver International Airport, 8500 Peña Blvd, Denver, CO 80249, USA",
+      "latitude": 39.8560963,
+      "longitude": -104.6737376,
+      "extra": {
+        "googlePlaceId": "ChIJ_0T_mCp_bIcRapy1NbQ7WEk",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Denver County",
+        "level2short": "Denver County",
+        "level1long": "Colorado",
+        "level1short": "CO"
+      },
+      "streetNumber": "8500",
+      "streetName": "Peña Blvd",
+      "city": "Denver",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "80249",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Detroit, Michigan",
+    "dateString": "January 29, 3 p.m.",
+    "location": "Hamtramck City Hall",
+    "link": "https://www.facebook.com/events/959584757476881/",
+    "title": "#MuslimBan Protest, Detroit, Michigan, January 29, 3 p.m.",
+    "geocode": {
+      "formattedAddress": "3401 Evaline St, Hamtramck, MI 48212, USA",
+      "latitude": 42.3993937,
+      "longitude": -83.05245649999999,
+      "extra": {
+        "googlePlaceId": "ChIJcXqxrkDSJIgR749rCT0OaJY",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Wayne County",
+        "level2short": "Wayne County",
+        "level1long": "Michigan",
+        "level1short": "MI"
+      },
+      "streetNumber": "3401",
+      "streetName": "Evaline Street",
+      "city": "Hamtramck",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "48212",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Detroit, Michigan",
+    "dateString": "January 29, 3 p.m.",
+    "location": "Hamtramck City Hall",
+    "link": "https://www.facebook.com/events/959584757476881/",
+    "title": "#MuslimBan Protest, Detroit, Michigan, January 29, 3 p.m.",
+    "geocode": {
+      "formattedAddress": "3401 Evaline St, Hamtramck, MI 48212, USA",
+      "latitude": 42.3993937,
+      "longitude": -83.05245649999999,
+      "extra": {
+        "googlePlaceId": "ChIJcXqxrkDSJIgR749rCT0OaJY",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Wayne County",
+        "level2short": "Wayne County",
+        "level1long": "Michigan",
+        "level1short": "MI"
+      },
+      "streetNumber": "3401",
+      "streetName": "Evaline Street",
+      "city": "Hamtramck",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "48212",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Detroit, Michigan",
+    "dateString": "January 29, 3 p.m.",
+    "location": "Hamtramck City Hall",
+    "link": "https://www.facebook.com/events/959584757476881/",
+    "title": "#MuslimBan Protest, Detroit, Michigan, January 29, 3 p.m.",
+    "geocode": {
+      "formattedAddress": "3401 Evaline St, Hamtramck, MI 48212, USA",
+      "latitude": 42.3993937,
+      "longitude": -83.05245649999999,
+      "extra": {
+        "googlePlaceId": "ChIJcXqxrkDSJIgR749rCT0OaJY",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Wayne County",
+        "level2short": "Wayne County",
+        "level1long": "Michigan",
+        "level1short": "MI"
+      },
+      "streetNumber": "3401",
+      "streetName": "Evaline Street",
+      "city": "Hamtramck",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "48212",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Eugene, Oregon",
+    "dateString": "January 29, 12–2 p.m.",
+    "location": "U.S. Federal District Court",
+    "link": "https://www.facebook.com/events/243638516092848",
+    "title": "#MuslimBan Protest, Eugene, Oregon, January 29, 12–2 p.m.",
+    "geocode": {
+      "formattedAddress": "405 E 8th Ave # 2100, Eugene, OR 97401, USA",
+      "latitude": 44.0519352,
+      "longitude": -123.085788,
+      "extra": {
+        "googlePlaceId": "ChIJdYlRvRYewVQRzZZ72dwEJ4M",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": "# 2100",
+        "neighborhood": "Downtown",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Lane County",
+        "level2short": "Lane County",
+        "level1long": "Oregon",
+        "level1short": "OR"
+      },
+      "streetNumber": "405",
+      "streetName": "East 8th Avenue",
+      "city": "Eugene",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "97401",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Fresno, California",
+    "dateString": "January 29, 5–7 p.m.",
+    "location": "Fresno Yosemite International Airport",
+    "link": "https://www.facebook.com/events/1097165160394912/",
+    "title": "#MuslimBan Protest, Fresno, California, January 29, 5–7 p.m.",
+    "geocode": {
+      "formattedAddress": "Fresno Yosemite International Airport, 5175 E Clinton Way, Fresno, CA 93727, USA",
+      "latitude": 36.7758493,
+      "longitude": -119.7181083,
+      "extra": {
+        "googlePlaceId": "ChIJA6ui6B9clIARw87lQKj61G8",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "McLane",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Fresno County",
+        "level2short": "Fresno County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "5175",
+      "streetName": "East Clinton Way",
+      "city": "Fresno",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "93727",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Houston, Texas",
+    "dateString": "January 28, 7 p.m. ",
+    "location": "IAH Terminal E",
+    "link": "https://www.facebook.com/events/386770058353091/#",
+    "title": "#MuslimBan Protest, Houston, Texas, January 28, 7 p.m. ",
+    "geocode": {
+      "formattedAddress": "Terminal E, Houston, TX 77032, USA",
+      "latitude": 29.9856075,
+      "longitude": -95.3338756,
+      "extra": {
+        "googlePlaceId": "ChIJ8xH9AEG0QIYRDZZVeaMogs4",
+        "confidence": 1,
+        "premise": "Terminal E",
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Harris County",
+        "level2short": "Harris County",
+        "level1long": "Texas",
+        "level1short": "TX"
+      },
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "77032",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Houston, Texas",
+    "dateString": "January 28, 7 p.m. ",
+    "location": "IAH Terminal E",
+    "link": "https://www.facebook.com/events/386770058353091/#",
+    "title": "#MuslimBan Protest, Houston, Texas, January 28, 7 p.m. ",
+    "geocode": {
+      "formattedAddress": "Terminal E, Houston, TX 77032, USA",
+      "latitude": 29.9856075,
+      "longitude": -95.3338756,
+      "extra": {
+        "googlePlaceId": "ChIJ8xH9AEG0QIYRDZZVeaMogs4",
+        "confidence": 1,
+        "premise": "Terminal E",
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Harris County",
+        "level2short": "Harris County",
+        "level1long": "Texas",
+        "level1short": "TX"
+      },
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "77032",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Houston, Texas",
+    "dateString": "January 28, 7 p.m. ",
+    "location": "IAH Terminal E",
+    "link": "https://www.facebook.com/events/386770058353091/#",
+    "title": "#MuslimBan Protest, Houston, Texas, January 28, 7 p.m. ",
+    "geocode": {
+      "formattedAddress": "Terminal E, Houston, TX 77032, USA",
+      "latitude": 29.9856075,
+      "longitude": -95.3338756,
+      "extra": {
+        "googlePlaceId": "ChIJ8xH9AEG0QIYRDZZVeaMogs4",
+        "confidence": 1,
+        "premise": "Terminal E",
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Harris County",
+        "level2short": "Harris County",
+        "level1long": "Texas",
+        "level1short": "TX"
+      },
+      "city": "Houston",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "77032",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Indianapolis, Indiana",
+    "dateString": "January 29, 4–8 p.m.",
+    "location": "Indianapolis International Airport",
+    "link": "https://www.facebook.com/events/1206129206108214/",
+    "title": "#MuslimBan Protest, Indianapolis, Indiana, January 29, 4–8 p.m.",
+    "geocode": {
+      "formattedAddress": "Indianapolis International Airport, 7800 Col. H. Weir Cook Memorial Dr, Indianapolis, IN 46241, USA",
+      "latitude": 39.7168593,
+      "longitude": -86.2955952,
+      "extra": {
+        "googlePlaceId": "ChIJof-h8KqnbIgRL2f9gyLdiiQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Decatur",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Decatur Township",
+        "level3short": "Decatur Township",
+        "level2long": "Marion County",
+        "level2short": "Marion County",
+        "level1long": "Indiana",
+        "level1short": "IN"
+      },
+      "streetNumber": "7800",
+      "streetName": "Col. H. Weir Cook Memorial Drive",
+      "city": "Indianapolis",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "46241",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Kansas City, Missouri",
+    "dateString": "January 29, 2–5:30 p.m.",
+    "location": "Kansas City International Airport",
+    "link": "https://www.facebook.com/events/245084225937730/",
+    "title": "#MuslimBan Protest, Kansas City, Missouri, January 29, 2–5:30 p.m.",
+    "geocode": {
+      "formattedAddress": "Kansas City International Airport, Kansas City, MO 64153, USA",
+      "latitude": 39.3006427,
+      "longitude": -94.7125937,
+      "extra": {
+        "googlePlaceId": "ChIJmYfmiAhewIcRoNouXRnQzcM",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Carroll Township",
+        "level3short": "Carroll Township",
+        "level2long": "Platte County",
+        "level2short": "Platte County",
+        "level1long": "Missouri",
+        "level1short": "MO"
+      },
+      "city": "Kansas City",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "64153",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Las Vegas, Nevada",
+    "dateString": "January 29, 3 p.m.",
+    "location": "McCarran International Airport",
+    "link": "https://www.facebook.com/events/1294732917260187/",
+    "title": "#MuslimBan Protest, Las Vegas, Nevada, January 29, 3 p.m.",
+    "geocode": {
+      "formattedAddress": "McCarran International Airport, 5757 Wayne Newton Blvd, Las Vegas, NV 89119, USA",
+      "latitude": 36.0839998,
+      "longitude": -115.1537389,
+      "extra": {
+        "googlePlaceId": "ChIJXZwEH5_FyIARHh7EHiRZE0c",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Clark County",
+        "level2short": "Clark County",
+        "level1long": "Nevada",
+        "level1short": "NV"
+      },
+      "streetNumber": "5757",
+      "streetName": "Wayne Newton Boulevard",
+      "city": "Las Vegas",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "89119",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Louisville, Kentucky",
+    "dateString": "January 29, 11:30 a.m. -12:30 p.m.",
+    "location": "Sen. Mitch McConnell’s office",
+    "link": "https://www.facebook.com/events/175651122918583/",
+    "title": "#MuslimBan Protest, Louisville, Kentucky, January 29, 11:30 a.m. -12:30 p.m.",
+    "geocode": {
+      "formattedAddress": "601 W Broadway # 630, Louisville, KY 40202, USA",
+      "latitude": 38.246741,
+      "longitude": -85.762501,
+      "extra": {
+        "googlePlaceId": "ChIJtVHTQKlyaYgRALbadGZ9bPs",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": "# 630",
+        "neighborhood": "Downtown",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Jefferson County",
+        "level2short": "Jefferson County",
+        "level1long": "Kentucky",
+        "level1short": "KY"
+      },
+      "streetNumber": "601",
+      "streetName": "West Broadway",
+      "city": "Louisville",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "40202",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Minneapolis, Minnesota",
+    "dateString": "January 28, happening now",
+    "location": "Minneapolis–Saint Paul International Airport",
+    "link": "https://www.facebook.com/events/294911630924576/",
+    "title": "#MuslimBan Protest, Minneapolis, Minnesota, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "Minneapolis−Saint Paul International Airport, Fort Snelling Unorganized Territory, MN 55111, USA",
+      "latitude": 44.8847554,
+      "longitude": -93.2222846,
+      "extra": {
+        "googlePlaceId": "ChIJB2rAhSov9ocRkTV4eHzT0ys",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Fort Snelling Unorganized Territory",
+        "level3short": "Fort Snelling Unorganized Territory",
+        "level2long": "Hennepin County",
+        "level2short": "Hennepin County",
+        "level1long": "Minnesota",
+        "level1short": "MN"
+      },
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "55111",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Minneapolis, Minnesota",
+    "dateString": "January 28, happening now",
+    "location": "Minneapolis–Saint Paul International Airport",
+    "link": "https://www.facebook.com/events/294911630924576/",
+    "title": "#MuslimBan Protest, Minneapolis, Minnesota, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "Minneapolis−Saint Paul International Airport, Fort Snelling Unorganized Territory, MN 55111, USA",
+      "latitude": 44.8847554,
+      "longitude": -93.2222846,
+      "extra": {
+        "googlePlaceId": "ChIJB2rAhSov9ocRkTV4eHzT0ys",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Fort Snelling Unorganized Territory",
+        "level3short": "Fort Snelling Unorganized Territory",
+        "level2long": "Hennepin County",
+        "level2short": "Hennepin County",
+        "level1long": "Minnesota",
+        "level1short": "MN"
+      },
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "55111",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Minneapolis, Minnesota",
+    "dateString": "January 28, happening now",
+    "location": "Minneapolis–Saint Paul International Airport",
+    "link": "https://www.facebook.com/events/294911630924576/",
+    "title": "#MuslimBan Protest, Minneapolis, Minnesota, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "Minneapolis−Saint Paul International Airport, Fort Snelling Unorganized Territory, MN 55111, USA",
+      "latitude": 44.8847554,
+      "longitude": -93.2222846,
+      "extra": {
+        "googlePlaceId": "ChIJB2rAhSov9ocRkTV4eHzT0ys",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Fort Snelling Unorganized Territory",
+        "level3short": "Fort Snelling Unorganized Territory",
+        "level2long": "Hennepin County",
+        "level2short": "Hennepin County",
+        "level1long": "Minnesota",
+        "level1short": "MN"
+      },
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "55111",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "New Orleans, Louisiana",
+    "dateString": "January 29, 1:45–4 p.m.",
+    "location": "New Orleans City Hall",
+    "link": "https://www.facebook.com/events/100209920497416/",
+    "title": "#MuslimBan Protest, New Orleans, Louisiana, January 29, 1:45–4 p.m.",
+    "geocode": {
+      "formattedAddress": "1300 Perdido St, New Orleans, LA 70112, USA",
+      "latitude": 29.9520391,
+      "longitude": -90.0771376,
+      "extra": {
+        "googlePlaceId": "ChIJJ_sOXeClIIYRy7hsgH8CbZg",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Central Business District",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Orleans Parish",
+        "level2short": "Orleans Parish",
+        "level1long": "Louisiana",
+        "level1short": "LA"
+      },
+      "streetNumber": "1300",
+      "streetName": "Perdido Street",
+      "city": "New Orleans",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "70112",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Newark, New Jersey",
+    "dateString": "January 28, happening now",
+    "location": "Newark Liberty International Airport",
+    "title": "#MuslimBan Protest, Newark, New Jersey, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "Newark Liberty International Airport, 3 Brewster Rd, Newark, NJ 07114, USA",
+      "latitude": 40.6895314,
+      "longitude": -74.1744624,
+      "extra": {
+        "googlePlaceId": "ChIJ7wzsxeFSwokRhvLXxTe087M",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Essex County",
+        "level2short": "Essex County",
+        "level1long": "New Jersey",
+        "level1short": "NJ"
+      },
+      "streetNumber": "3",
+      "streetName": "Brewster Road",
+      "city": "Newark",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "07114",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "New Haven, Connecticut",
+    "dateString": "January 29, 6–6:45 p.m.",
+    "location": "Sterling Memorial Library",
+    "link": "https://www.facebook.com/events/367771363605329/",
+    "title": "#MuslimBan Protest, New Haven, Connecticut, January 29, 6–6:45 p.m.",
+    "geocode": {
+      "formattedAddress": "120 High St, New Haven, CT 06511, USA",
+      "latitude": 41.311297,
+      "longitude": -72.92877469999999,
+      "extra": {
+        "googlePlaceId": "ChIJd0ySqLbZ54kRMpTSW2cmR-M",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Downtown",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "New Haven County",
+        "level2short": "New Haven County",
+        "level1long": "Connecticut",
+        "level1short": "CT"
+      },
+      "streetNumber": "120",
+      "streetName": "High Street",
+      "city": "New Haven",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "06511",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "New York, New York",
+    "dateString": "January 28, happening now",
+    "location": "John F. Kennedy International Airport",
+    "link": "https://www.facebook.com/WorkingFamilies/videos/10154733903016418/?hc_ref=PAGES_TIMELINE",
+    "title": "#MuslimBan Protest, New York, New York, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "John F. Kennedy International Airport, Queens, NY 11430, USA",
+      "latitude": 40.6413111,
+      "longitude": -73.77813909999999,
+      "extra": {
+        "googlePlaceId": "ChIJR0lA1VBmwokR8BGfSBOyT-w",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Queens",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Queens County",
+        "level2short": "Queens County",
+        "level1long": "New York",
+        "level1short": "NY"
+      },
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "11430",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "New York, New York",
+    "dateString": "January 28, happening now",
+    "location": "John F. Kennedy International Airport",
+    "link": "https://www.facebook.com/WorkingFamilies/videos/10154733903016418/?hc_ref=PAGES_TIMELINE",
+    "title": "#MuslimBan Protest, New York, New York, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "John F. Kennedy International Airport, Queens, NY 11430, USA",
+      "latitude": 40.6413111,
+      "longitude": -73.77813909999999,
+      "extra": {
+        "googlePlaceId": "ChIJR0lA1VBmwokR8BGfSBOyT-w",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Queens",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Queens County",
+        "level2short": "Queens County",
+        "level1long": "New York",
+        "level1short": "NY"
+      },
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "11430",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "New York, New York",
+    "dateString": "January 28, happening now",
+    "location": "John F. Kennedy International Airport",
+    "link": "https://www.facebook.com/WorkingFamilies/videos/10154733903016418/?hc_ref=PAGES_TIMELINE",
+    "title": "#MuslimBan Protest, New York, New York, January 28, happening now",
+    "geocode": {
+      "formattedAddress": "John F. Kennedy International Airport, Queens, NY 11430, USA",
+      "latitude": 40.6413111,
+      "longitude": -73.77813909999999,
+      "extra": {
+        "googlePlaceId": "ChIJR0lA1VBmwokR8BGfSBOyT-w",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Queens",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Queens County",
+        "level2short": "Queens County",
+        "level1long": "New York",
+        "level1short": "NY"
+      },
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "11430",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Omaha, Nebraska",
+    "dateString": "January 29, 1:30–3 p.m.",
+    "location": "Turner Park",
+    "link": "https://www.facebook.com/events/1468682563144607/?notif_t=plan_user_invited&notif_id=1485643779835043",
+    "title": "#MuslimBan Protest, Omaha, Nebraska, January 29, 1:30–3 p.m.",
+    "geocode": {
+      "formattedAddress": "Turner Park, 3110 Farnam St, Omaha, NE 68131, USA",
+      "latitude": 41.2588523,
+      "longitude": -95.95847669999999,
+      "extra": {
+        "googlePlaceId": "ChIJxaZZdUOOk4cROYXrqyVbqOo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Midtown Crossing",
+        "establishment": "Turner Park"
+      },
+      "administrativeLevels": {
+        "level2long": "Douglas County",
+        "level2short": "Douglas County",
+        "level1long": "Nebraska",
+        "level1short": "NE"
+      },
+      "streetNumber": "3110",
+      "streetName": "Farnam Street",
+      "city": "Omaha",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "68131",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Los Angeles, California",
+    "dateString": "January 28, 1–5 p.m.",
+    "location": "Federal Immigration Office, 300 N. Los Angeles St.",
+    "link": "https://www.facebook.com/events/1876148372629363/",
+    "title": "#MuslimBan Protest, Los Angeles, California, January 28, 1–5 p.m.",
+    "geocode": {
+      "formattedAddress": "300 N Los Angeles St, Los Angeles, CA 90012, USA",
+      "latitude": 34.053724,
+      "longitude": -118.2398099,
+      "extra": {
+        "googlePlaceId": "ChIJ2cx24UXGwoARH2mzLuIeRFo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Little Tokyo",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Los Angeles County",
+        "level2short": "Los Angeles County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "300",
+      "streetName": "North Los Angeles Street",
+      "city": "Los Angeles",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "90012",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Los Angeles, California",
+    "dateString": "January 28, 1–5 p.m.",
+    "location": "Federal Immigration Office, 300 N. Los Angeles St.",
+    "link": "https://www.facebook.com/events/1876148372629363/",
+    "title": "#MuslimBan Protest, Los Angeles, California, January 28, 1–5 p.m.",
+    "geocode": {
+      "formattedAddress": "300 N Los Angeles St, Los Angeles, CA 90012, USA",
+      "latitude": 34.053724,
+      "longitude": -118.2398099,
+      "extra": {
+        "googlePlaceId": "ChIJ2cx24UXGwoARH2mzLuIeRFo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Little Tokyo",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Los Angeles County",
+        "level2short": "Los Angeles County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "300",
+      "streetName": "North Los Angeles Street",
+      "city": "Los Angeles",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "90012",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Los Angeles, California",
+    "dateString": "January 28, 1–5 p.m.",
+    "location": "Federal Immigration Office, 300 N. Los Angeles St.",
+    "link": "https://www.facebook.com/events/1876148372629363/",
+    "title": "#MuslimBan Protest, Los Angeles, California, January 28, 1–5 p.m.",
+    "geocode": {
+      "formattedAddress": "300 N Los Angeles St, Los Angeles, CA 90012, USA",
+      "latitude": 34.053724,
+      "longitude": -118.2398099,
+      "extra": {
+        "googlePlaceId": "ChIJ2cx24UXGwoARH2mzLuIeRFo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Little Tokyo",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Los Angeles County",
+        "level2short": "Los Angeles County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "300",
+      "streetName": "North Los Angeles Street",
+      "city": "Los Angeles",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "90012",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Los Angeles, California",
+    "dateString": "January 28, 1–5 p.m.",
+    "location": "Federal Immigration Office, 300 N. Los Angeles St.",
+    "link": "https://www.facebook.com/events/1876148372629363/",
+    "title": "#MuslimBan Protest, Los Angeles, California, January 28, 1–5 p.m.",
+    "geocode": {
+      "formattedAddress": "300 N Los Angeles St, Los Angeles, CA 90012, USA",
+      "latitude": 34.053724,
+      "longitude": -118.2398099,
+      "extra": {
+        "googlePlaceId": "ChIJ2cx24UXGwoARH2mzLuIeRFo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Little Tokyo",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Los Angeles County",
+        "level2short": "Los Angeles County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "300",
+      "streetName": "North Los Angeles Street",
+      "city": "Los Angeles",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "90012",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Los Angeles, California",
+    "dateString": "January 28, 1–5 p.m.",
+    "location": "Federal Immigration Office, 300 N. Los Angeles St.",
+    "link": "https://www.facebook.com/events/1876148372629363/",
+    "title": "#MuslimBan Protest, Los Angeles, California, January 28, 1–5 p.m.",
+    "geocode": {
+      "formattedAddress": "300 N Los Angeles St, Los Angeles, CA 90012, USA",
+      "latitude": 34.053724,
+      "longitude": -118.2398099,
+      "extra": {
+        "googlePlaceId": "ChIJ2cx24UXGwoARH2mzLuIeRFo",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Little Tokyo",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Los Angeles County",
+        "level2short": "Los Angeles County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "300",
+      "streetName": "North Los Angeles Street",
+      "city": "Los Angeles",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "90012",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Nashville, Tennessee",
+    "dateString": "January 29, 3–4:30 p.m.",
+    "location": "Sen. Bob Corker’s office",
+    "link": "https://www.facebook.com/events/1782511105404931/",
+    "title": "#MuslimBan Protest, Nashville, Tennessee, January 29, 3–4:30 p.m.",
+    "geocode": {
+      "formattedAddress": "3322 West End Building, 3322 West End Ave #610, Nashville, TN 37203, USA",
+      "latitude": 36.1399585,
+      "longitude": -86.81992509999999,
+      "extra": {
+        "googlePlaceId": "ChIJz1XEg6xmZIgRmW_DQdIq5Gw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": "610",
+        "neighborhood": "West End Park",
+        "establishment": "3322 West End Building"
+      },
+      "administrativeLevels": {
+        "level2long": "Davidson County",
+        "level2short": "Davidson County",
+        "level1long": "Tennessee",
+        "level1short": "TN"
+      },
+      "streetNumber": "3322",
+      "streetName": "West End Avenue",
+      "city": "Nashville",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "37203",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Philadelphia, Pennsylvania",
+    "dateString": "January 28, 7 p.m.",
+    "location": "Philadelphia International Airport, Terminal A",
+    "link": "https://www.facebook.com/events/252451231859979/",
+    "title": "#MuslimBan Protest, Philadelphia, Pennsylvania, January 28, 7 p.m.",
+    "geocode": {
+      "formattedAddress": "Philadelphia International Airport, Philadelphia, PA 19153, USA",
+      "latitude": 39.876852,
+      "longitude": -75.24663199999999,
+      "extra": {
+        "googlePlaceId": "ChIJ75qSf5vExokR8ShtfO_Ca0k",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Southwest Philadelphia",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Philadelphia County",
+        "level2short": "Philadelphia County",
+        "level1long": "Pennsylvania",
+        "level1short": "PA"
+      },
+      "city": "Philadelphia",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "19153",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Phoenix, Arizona",
+    "dateString": "January 29, 1–3 p.m.",
+    "location": "Phoenix Sky Harbor International Airport ",
+    "link": "https://www.facebook.com/events/1428310353848838/",
+    "title": "#MuslimBan Protest, Phoenix, Arizona, January 29, 1–3 p.m.",
+    "geocode": {
+      "formattedAddress": "Phoenix Sky Harbor International Airport, 3400 E Sky Harbor Blvd, Phoenix, AZ 85034, USA",
+      "latitude": 33.4372686,
+      "longitude": -112.0077881,
+      "extra": {
+        "googlePlaceId": "ChIJpXADM1wOK4cRQu5W4tU19YI",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Central City",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Maricopa County",
+        "level2short": "Maricopa County",
+        "level1long": "Arizona",
+        "level1short": "AZ"
+      },
+      "streetNumber": "3400",
+      "streetName": "East Sky Harbor Boulevard",
+      "city": "Phoenix",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "85034",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Portland, Oregon",
+    "dateString": "January 28, 3 p.m.",
+    "location": "Portland International Airport, MAX Terminal",
+    "title": "#MuslimBan Protest, Portland, Oregon, January 28, 3 p.m.",
+    "geocode": {
+      "formattedAddress": "Portland Int'l Airport Station, Portland, OR 97218, USA",
+      "latitude": 45.587584,
+      "longitude": -122.5931,
+      "extra": {
+        "googlePlaceId": "ChIJwTIToS-klVQRPwZH2TeOe9Y",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Northeast Portland",
+        "establishment": "Portland Int'l Airport Station"
+      },
+      "administrativeLevels": {
+        "level2long": "Multnomah County",
+        "level2short": "Multnomah County",
+        "level1long": "Oregon",
+        "level1short": "OR"
+      },
+      "city": "Portland",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "97218",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Providence, Rhode Island",
+    "dateString": "January 29, 1–3 p.m.",
+    "location": "Rhode Island State House",
+    "link": "https://www.facebook.com/events/1571276276234343/?active_tab=discussion",
+    "title": "#MuslimBan Protest, Providence, Rhode Island, January 29, 1–3 p.m.",
+    "geocode": {
+      "formattedAddress": "82 Smith St, Providence, RI 02903, USA",
+      "latitude": 41.8310955,
+      "longitude": -71.4149243,
+      "extra": {
+        "googlePlaceId": "ChIJM9tqVxpF5IkRbTsEJXUPUk4",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Downtown Providence",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Providence County",
+        "level2short": "Providence County",
+        "level1long": "Rhode Island",
+        "level1short": "RI"
+      },
+      "streetNumber": "82",
+      "streetName": "Smith Street",
+      "city": "Providence",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "02903",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Providence, Rhode Island",
+    "dateString": "January 29, 1–3 p.m.",
+    "location": "Rhode Island State House",
+    "link": "https://www.facebook.com/events/1571276276234343/?active_tab=discussion",
+    "title": "#MuslimBan Protest, Providence, Rhode Island, January 29, 1–3 p.m.",
+    "geocode": {
+      "formattedAddress": "82 Smith St, Providence, RI 02903, USA",
+      "latitude": 41.8310955,
+      "longitude": -71.4149243,
+      "extra": {
+        "googlePlaceId": "ChIJM9tqVxpF5IkRbTsEJXUPUk4",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Downtown Providence",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Providence County",
+        "level2short": "Providence County",
+        "level1long": "Rhode Island",
+        "level1short": "RI"
+      },
+      "streetNumber": "82",
+      "streetName": "Smith Street",
+      "city": "Providence",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "02903",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Reno, Nevada",
+    "dateString": "January 28, 6–9 p.m.",
+    "location": "Reno-Tahoe International Airport",
+    "link": "https://www.facebook.com/events/253898505050158/",
+    "title": "#MuslimBan Protest, Reno, Nevada, January 28, 6–9 p.m.",
+    "geocode": {
+      "formattedAddress": "Reno-Tahoe International Airport, 2001 E Plumb Ln, Reno, NV 89502, USA",
+      "latitude": 39.4995907,
+      "longitude": -119.7680951,
+      "extra": {
+        "googlePlaceId": "ChIJF0m8rXA_mYARQFmvIP8eQBA",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Washoe County",
+        "level2short": "Washoe County",
+        "level1long": "Nevada",
+        "level1short": "NV"
+      },
+      "streetNumber": "2001",
+      "streetName": "East Plumb Lane",
+      "city": "Reno",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "89502",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Richmond, Virginia",
+    "dateString": "January 29, 3–4 p.m.",
+    "location": "VCU Compass Plaza",
+    "link": "https://www.facebook.com/events/195526110922631",
+    "title": "#MuslimBan Protest, Richmond, Virginia, January 29, 3–4 p.m.",
+    "geocode": {
+      "formattedAddress": "Compass, Richmond, VA 23284, USA",
+      "latitude": 37.5481268,
+      "longitude": -77.4532109,
+      "extra": {
+        "googlePlaceId": "ChIJ68sv1EURsYkRpme1EISPR2k",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "VCU",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level1long": "Virginia",
+        "level1short": "VA"
+      },
+      "city": "Richmond",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "23284",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Rochester, New York",
+    "dateString": "January 29, 2–4 p.m.",
+    "location": "Washington Square Park",
+    "link": "https://www.facebook.com/events/1679194032094622/?notif_t=plan_user_invited&notif_id=1485702108501172",
+    "title": "#MuslimBan Protest, Rochester, New York, January 29, 2–4 p.m.",
+    "geocode": {
+      "formattedAddress": "Washington Square Park, 10 St Marys Pl, Rochester, NY 14607, USA",
+      "latitude": 43.15345,
+      "longitude": -77.605307,
+      "extra": {
+        "googlePlaceId": "ChIJhZbJZgC11okRtnIB-IoBBnQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Central Business District",
+        "establishment": "Washington Square Park"
+      },
+      "administrativeLevels": {
+        "level2long": "Monroe County",
+        "level2short": "Monroe County",
+        "level1long": "New York",
+        "level1short": "NY"
+      },
+      "streetNumber": "10",
+      "streetName": "Saint Marys Place",
+      "city": "Rochester",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "14607",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Sacramento, California",
+    "dateString": "January 29, 12–3 p.m.",
+    "location": "Sacramento International Airport",
+    "link": "https://www.facebook.com/events/1720922048237176/",
+    "title": "#MuslimBan Protest, Sacramento, California, January 29, 12–3 p.m.",
+    "geocode": {
+      "formattedAddress": "Sacramento International Airport, 6900 Airport Blvd, Sacramento, CA 95837, USA",
+      "latitude": 38.6950854,
+      "longitude": -121.5900648,
+      "extra": {
+        "googlePlaceId": "ChIJrXBqznMrm4ARMkLvKBKQYKQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "North Natomas",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Sacramento County",
+        "level2short": "Sacramento County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "6900",
+      "streetName": "Airport Boulevard",
+      "city": "Sacramento",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "95837",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Salt Lake City, Utah",
+    "dateString": "January 28, 8–10 p.m.",
+    "location": "Salt Lake City International Airport",
+    "link": "https://www.facebook.com/events/232183477187424",
+    "title": "#MuslimBan Protest, Salt Lake City, Utah, January 28, 8–10 p.m.",
+    "geocode": {
+      "formattedAddress": "Salt Lake City International Airport, 776 N Terminal Dr, Salt Lake City, UT 84122, USA",
+      "latitude": 40.7899404,
+      "longitude": -111.9790706,
+      "extra": {
+        "googlePlaceId": "ChIJ6fTXZ4vzUocRGUhZ9SZDH28",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Westpointe",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Salt Lake County",
+        "level2short": "Salt Lake County",
+        "level1long": "Utah",
+        "level1short": "UT"
+      },
+      "streetNumber": "776",
+      "streetName": "North Terminal Drive",
+      "city": "Salt Lake City",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "84122",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Antonio, Texas",
+    "dateString": "January 29, 4–6 p.m.",
+    "location": "San Antonio Main Plaza, San Fernando Cathedral",
+    "link": "https://www.facebook.com/events/241895902888167/",
+    "title": "#MuslimBan Protest, San Antonio, Texas, January 29, 4–6 p.m.",
+    "geocode": {
+      "formattedAddress": "115 Main Plaza, San Antonio, TX 78205, USA",
+      "latitude": 29.4245368,
+      "longitude": -98.49416289999999,
+      "extra": {
+        "googlePlaceId": "ChIJv520Oa1YXIYRPBgltgDDKjU",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Main/Military Plaza",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Bexar County",
+        "level2short": "Bexar County",
+        "level1long": "Texas",
+        "level1short": "TX"
+      },
+      "streetNumber": "115",
+      "streetName": "Main Plaza",
+      "city": "San Antonio",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "78205",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Diego, California",
+    "dateString": "January 28, 5–8 p.m.",
+    "location": "San Diego International Airport",
+    "link": "https://www.facebook.com/events/1664547153561929/",
+    "title": "#MuslimBan Protest, San Diego, California, January 28, 5–8 p.m.",
+    "geocode": {
+      "formattedAddress": "San Diego International Airport, 3225 N Harbor Dr, San Diego, CA 92101, USA",
+      "latitude": 32.7338006,
+      "longitude": -117.1933038,
+      "extra": {
+        "googlePlaceId": "ChIJ7-bxRDmr3oARawtVV_lGLtw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Point Loma",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Diego County",
+        "level2short": "San Diego County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "3225",
+      "streetName": "North Harbor Drive",
+      "city": "San Diego",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "92101",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Diego, California",
+    "dateString": "January 28, 5–8 p.m.",
+    "location": "San Diego International Airport",
+    "link": "https://www.facebook.com/events/1664547153561929/",
+    "title": "#MuslimBan Protest, San Diego, California, January 28, 5–8 p.m.",
+    "geocode": {
+      "formattedAddress": "San Diego International Airport, 3225 N Harbor Dr, San Diego, CA 92101, USA",
+      "latitude": 32.7338006,
+      "longitude": -117.1933038,
+      "extra": {
+        "googlePlaceId": "ChIJ7-bxRDmr3oARawtVV_lGLtw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Point Loma",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Diego County",
+        "level2short": "San Diego County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "3225",
+      "streetName": "North Harbor Drive",
+      "city": "San Diego",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "92101",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Diego, California",
+    "dateString": "January 28, 5–8 p.m.",
+    "location": "San Diego International Airport",
+    "link": "https://www.facebook.com/events/1664547153561929/",
+    "title": "#MuslimBan Protest, San Diego, California, January 28, 5–8 p.m.",
+    "geocode": {
+      "formattedAddress": "San Diego International Airport, 3225 N Harbor Dr, San Diego, CA 92101, USA",
+      "latitude": 32.7338006,
+      "longitude": -117.1933038,
+      "extra": {
+        "googlePlaceId": "ChIJ7-bxRDmr3oARawtVV_lGLtw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Point Loma",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Diego County",
+        "level2short": "San Diego County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "streetNumber": "3225",
+      "streetName": "North Harbor Drive",
+      "city": "San Diego",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "92101",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Francisco, California",
+    "dateString": "January 28, 3–5 p.m.",
+    "location": "San Francisco International Airport, International Terminal",
+    "link": "https://www.facebook.com/events/1860032590936254/",
+    "title": "#MuslimBan Protest, San Francisco, California, January 28, 3–5 p.m.",
+    "geocode": {
+      "formattedAddress": "San Francisco International Airport, San Francisco, CA 94128, USA",
+      "latitude": 37.6213129,
+      "longitude": -122.3789554,
+      "extra": {
+        "googlePlaceId": "ChIJVVVVVYx3j4ARP-3NGldc8qQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Mateo County",
+        "level2short": "San Mateo County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "94128",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Francisco, California",
+    "dateString": "January 28, 3–5 p.m.",
+    "location": "San Francisco International Airport, International Terminal",
+    "link": "https://www.facebook.com/events/1860032590936254/",
+    "title": "#MuslimBan Protest, San Francisco, California, January 28, 3–5 p.m.",
+    "geocode": {
+      "formattedAddress": "San Francisco International Airport, San Francisco, CA 94128, USA",
+      "latitude": 37.6213129,
+      "longitude": -122.3789554,
+      "extra": {
+        "googlePlaceId": "ChIJVVVVVYx3j4ARP-3NGldc8qQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Mateo County",
+        "level2short": "San Mateo County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "94128",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Francisco, California",
+    "dateString": "January 28, 3–5 p.m.",
+    "location": "San Francisco International Airport, International Terminal",
+    "link": "https://www.facebook.com/events/1860032590936254/",
+    "title": "#MuslimBan Protest, San Francisco, California, January 28, 3–5 p.m.",
+    "geocode": {
+      "formattedAddress": "San Francisco International Airport, San Francisco, CA 94128, USA",
+      "latitude": 37.6213129,
+      "longitude": -122.3789554,
+      "extra": {
+        "googlePlaceId": "ChIJVVVVVYx3j4ARP-3NGldc8qQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Mateo County",
+        "level2short": "San Mateo County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "94128",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Francisco, California",
+    "dateString": "January 28, 3–5 p.m.",
+    "location": "San Francisco International Airport, International Terminal",
+    "link": "https://www.facebook.com/events/1860032590936254/",
+    "title": "#MuslimBan Protest, San Francisco, California, January 28, 3–5 p.m.",
+    "geocode": {
+      "formattedAddress": "San Francisco International Airport, San Francisco, CA 94128, USA",
+      "latitude": 37.6213129,
+      "longitude": -122.3789554,
+      "extra": {
+        "googlePlaceId": "ChIJVVVVVYx3j4ARP-3NGldc8qQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Mateo County",
+        "level2short": "San Mateo County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "94128",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "San Francisco, California",
+    "dateString": "January 28, 3–5 p.m.",
+    "location": "San Francisco International Airport, International Terminal",
+    "link": "https://www.facebook.com/events/1860032590936254/",
+    "title": "#MuslimBan Protest, San Francisco, California, January 28, 3–5 p.m.",
+    "geocode": {
+      "formattedAddress": "San Francisco International Airport, San Francisco, CA 94128, USA",
+      "latitude": 37.6213129,
+      "longitude": -122.3789554,
+      "extra": {
+        "googlePlaceId": "ChIJVVVVVYx3j4ARP-3NGldc8qQ",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "San Mateo County",
+        "level2short": "San Mateo County",
+        "level1long": "California",
+        "level1short": "CA"
+      },
+      "city": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "94128",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Seattle, Washington",
+    "dateString": "January 28, 5 p.m. — midnight",
+    "location": "Seattle-Tacoma International Airport (Sea-Tac)",
+    "link": "https://www.facebook.com/events/581941758669291/",
+    "title": "#MuslimBan Protest, Seattle, Washington, January 28, 5 p.m. — midnight",
+    "geocode": {
+      "formattedAddress": "Seattle-Tacoma International Airport, 17801 International Blvd, Seattle, WA 98158, USA",
+      "latitude": 47.4502499,
+      "longitude": -122.3088165,
+      "extra": {
+        "googlePlaceId": "ChIJ_f7qQlVDkFQRtzfcx8TZ05k",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "King County",
+        "level2short": "King County",
+        "level1long": "Washington",
+        "level1short": "WA"
+      },
+      "streetNumber": "17801",
+      "streetName": "International Boulevard",
+      "city": "Seattle",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "98158",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Seattle, Washington",
+    "dateString": "January 28, 5 p.m. — midnight",
+    "location": "Seattle-Tacoma International Airport (Sea-Tac)",
+    "link": "https://www.facebook.com/events/581941758669291/",
+    "title": "#MuslimBan Protest, Seattle, Washington, January 28, 5 p.m. — midnight",
+    "geocode": {
+      "formattedAddress": "Seattle-Tacoma International Airport, 17801 International Blvd, Seattle, WA 98158, USA",
+      "latitude": 47.4502499,
+      "longitude": -122.3088165,
+      "extra": {
+        "googlePlaceId": "ChIJ_f7qQlVDkFQRtzfcx8TZ05k",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "King County",
+        "level2short": "King County",
+        "level1long": "Washington",
+        "level1short": "WA"
+      },
+      "streetNumber": "17801",
+      "streetName": "International Boulevard",
+      "city": "Seattle",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "98158",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Seattle, Washington",
+    "dateString": "January 28, 5 p.m. — midnight",
+    "location": "Seattle-Tacoma International Airport (Sea-Tac)",
+    "link": "https://www.facebook.com/events/581941758669291/",
+    "title": "#MuslimBan Protest, Seattle, Washington, January 28, 5 p.m. — midnight",
+    "geocode": {
+      "formattedAddress": "Seattle-Tacoma International Airport, 17801 International Blvd, Seattle, WA 98158, USA",
+      "latitude": 47.4502499,
+      "longitude": -122.3088165,
+      "extra": {
+        "googlePlaceId": "ChIJ_f7qQlVDkFQRtzfcx8TZ05k",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "King County",
+        "level2short": "King County",
+        "level1long": "Washington",
+        "level1short": "WA"
+      },
+      "streetNumber": "17801",
+      "streetName": "International Boulevard",
+      "city": "Seattle",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "98158",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Syracuse, New York",
+    "dateString": "January 29, 6:30–9:30 p.m.",
+    "location": "Syracuse Hancock International Airport",
+    "link": "https://www.facebook.com/events/402102606824003/permalink/402171893483741/",
+    "title": "#MuslimBan Protest, Syracuse, New York, January 29, 6:30–9:30 p.m.",
+    "geocode": {
+      "formattedAddress": "Syracuse Hancock International Airport, 1000 Col Eileen Collins Blvd, Syracuse, NY 13212, USA",
+      "latitude": 43.1139301,
+      "longitude": -76.1101888,
+      "extra": {
+        "googlePlaceId": "ChIJ61pFUUDt2YkRJ2iGT5kKPqc",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "De Witt",
+        "level3short": "De Witt",
+        "level2long": "Onondaga County",
+        "level2short": "Onondaga County",
+        "level1long": "New York",
+        "level1short": "NY"
+      },
+      "streetNumber": "1000",
+      "streetName": "Col Eileen Collins Boulevard",
+      "city": "Syracuse",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "13212",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "St. Louis, Missouri",
+    "dateString": "January 29, 1–4 p.m.",
+    "location": "Lambert-St. Louis International Airport",
+    "link": "https://www.facebook.com/events/1412817355416635/?active_tab=about",
+    "title": "#MuslimBan Protest, St. Louis, Missouri, January 29, 1–4 p.m.",
+    "geocode": {
+      "formattedAddress": "Lambert-St. Louis Int'l Airport, 10701 Lambert International Blvd, St. Louis, MO 63145, USA",
+      "latitude": 38.7422626,
+      "longitude": -90.36651069999999,
+      "extra": {
+        "googlePlaceId": "ChIJ8YhjxbQ234cRpncwZrzNq50",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level3long": "Airport Township",
+        "level3short": "Airport Township",
+        "level2long": "St. Louis County",
+        "level2short": "St Louis County",
+        "level1long": "Missouri",
+        "level1short": "MO"
+      },
+      "streetNumber": "10701",
+      "streetName": "Lambert International Boulevard",
+      "city": "St. Louis",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "63145",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Tallahassee, Florida",
+    "dateString": "January 29, 1–4 p.m.",
+    "location": "State Capitol",
+    "link": "https://www.facebook.com/events/949637481837442/",
+    "title": "#MuslimBan Protest, Tallahassee, Florida, January 29, 1–4 p.m.",
+    "geocode": {
+      "formattedAddress": "400 S Monroe St, Tallahassee, FL 32399, USA",
+      "latitude": 30.43806,
+      "longitude": -84.2828542,
+      "extra": {
+        "googlePlaceId": "ChIJiZpxLnD17IgR7O0vpt5qBSw",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": "Capitol Hill",
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Leon County",
+        "level2short": "Leon County",
+        "level1long": "Florida",
+        "level1short": "FL"
+      },
+      "streetNumber": "400",
+      "streetName": "South Monroe Street",
+      "city": "Tallahassee",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "32399",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Windsor Locks, Connecticut",
+    "dateString": "January 29, 1:30–4:30 p.m.",
+    "location": "Bradley International Airport",
+    "link": "https://www.facebook.com/events/1181175375322923/",
+    "title": "#MuslimBan Protest, Windsor Locks, Connecticut, January 29, 1:30–4:30 p.m.",
+    "geocode": {
+      "formattedAddress": "Bradley International Airport, Schoephoester Rd, Windsor Locks, CT 06096, USA",
+      "latitude": 41.9388735,
+      "longitude": -72.68603139999999,
+      "extra": {
+        "googlePlaceId": "ChIJucyQYcL95okRZafxtdR6Wyc",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Hartford County",
+        "level2short": "Hartford County",
+        "level1long": "Connecticut",
+        "level1short": "CT"
+      },
+      "streetName": "Schoephoester Road",
+      "city": "Windsor Locks",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "06096",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  },
+  {
+    "city": "Windsor Locks, Connecticut",
+    "dateString": "January 29, 1:30–4:30 p.m.",
+    "location": "Bradley International Airport",
+    "link": "https://www.facebook.com/events/1181175375322923/",
+    "title": "#MuslimBan Protest, Windsor Locks, Connecticut, January 29, 1:30–4:30 p.m.",
+    "geocode": {
+      "formattedAddress": "Bradley International Airport, Schoephoester Rd, Windsor Locks, CT 06096, USA",
+      "latitude": 41.9388735,
+      "longitude": -72.68603139999999,
+      "extra": {
+        "googlePlaceId": "ChIJucyQYcL95okRZafxtdR6Wyc",
+        "confidence": 0.5,
+        "premise": null,
+        "subpremise": null,
+        "neighborhood": null,
+        "establishment": null
+      },
+      "administrativeLevels": {
+        "level2long": "Hartford County",
+        "level2short": "Hartford County",
+        "level1long": "Connecticut",
+        "level1short": "CT"
+      },
+      "streetName": "Schoephoester Road",
+      "city": "Windsor Locks",
+      "country": "United States",
+      "countryCode": "US",
+      "zipcode": "06096",
+      "provider": "google"
+    },
+    "tags": [
+      "muslimban",
+      "protest",
+      "immigration",
+      "nowall"
+    ]
+  }
+]
