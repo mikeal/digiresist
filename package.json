@@ -11,10 +11,10 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
   "license": "Apache-2.0",
   "dependencies": {
-    "bel": "^4.5.1",
+    "bel": "^5.0.2",
     "brfs": "^1.4.3",
     "browserify": "^14.0.0",
-    "budo": "^9.4.7",
+    "budo": "^10.0.3",
     "cheerio": "^0.22.0",
     "funky": "^2.3.0",
     "node-geocoder": "^3.16.0",
